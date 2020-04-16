@@ -10,6 +10,7 @@ google-auth==1.14.0
 google-auth-oauthlib==0.4.1
 google-pasta==0.2.0
 grpcio==1.28.1
+gunicorn==20.0.4
 h5py==2.10.0
 idna==2.9
 itsdangerous==1.1.0
@@ -43,4 +44,5 @@ termcolor==1.1.0
 tf-estimator-nightly==1.14.0.dev2019060501
 urllib3==1.25.8
 Werkzeug==1.0.1
+whitenoise==5.0.1
 wrapt==1.12.1
